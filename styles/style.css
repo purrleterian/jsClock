@@ -13,6 +13,7 @@ a {
 
 #my-github {
   opacity: 0;
+  font-size: 26px;
   -webkit-transition: all ease-in-out 350ms;
   transition: all ease-in-out 350ms;
 }
